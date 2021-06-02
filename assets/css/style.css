@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /* font-family: "Lobster", cursive;
+    font-family: "Cabin", sans-serif;
+    color: #373a3c; */
+}
+
+body * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.bg-cyan {
+    background-color: #279DA9;
+}
+
+.maxheight-image {
+    max-height: 850px;
+}
+/* Extra Small */
+@media screen and (max-width: 576px) {
+    
+}
+/* Small */
+@media screen and (min-width: 576px) {
+    
+}
+/* Medium */
+@media screen and (min-width: 768px) {
+    
+}
+/* Large */
+@media screen and (min-width: 992px) {
+    
+}
+/* Extra large */
+@media screen and (min-width: 1200px) {
+    .maxheight-image {
+        max-height: 750px;
+    }
+}
+/* Extra Extra Large */
+@media screen and (min-width: 1500px) {
+    .maxheight-image {
+        max-height: 850px;
+    }
+}
