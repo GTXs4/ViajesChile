@@ -12,14 +12,38 @@ body * {
     padding: 0;
     border: 0;
 }
+h1, h2, p {
+    color: white;
+}
 
-.bg-cyan {
+.bg-celeste {
     background-color: #279DA9;
+}
+.bg-black {
+    background-color: black;
 }
 
 .maxheight-image {
     max-height: 850px;
 }
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    border-top: 2px solid #279DA9;
+}
+
+div.bg-celeste {
+    height: 40px;
+    width: 100%;
+}
+.height75 {
+    height: 75px;
+}
+.iconos {
+    color: #fff;
+}
+
 /* Extra Small */
 @media screen and (max-width: 576px) {
     
