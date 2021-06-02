@@ -12,7 +12,7 @@ body * {
     padding: 0;
     border: 0;
 }
-h1, h2, p {
+h1, h2, h5, p {
     color: white;
 }
 
@@ -33,7 +33,7 @@ hr {
     border-top: 2px solid #279DA9;
 }
 
-div.bg-celeste {
+.icon.bg-celeste {
     height: 40px;
     width: 100%;
 }
