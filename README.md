@@ -1,4 +1,4 @@
-# VIAJES CHILE
+# Viajes Chile
 
 Proyecto Viajes Chile
 
