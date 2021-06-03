@@ -43,9 +43,15 @@ hr {
 .iconos {
     color: #fff;
 }
+.card {
+    width: 15rem;
+}
 
 /* Extra Small */
 @media screen and (max-width: 576px) {
+    #carouselExampleControls {
+        margin-top: 98px;
+    }
     
 }
 /* Small */
@@ -58,10 +64,15 @@ hr {
 }
 /* Large */
 @media screen and (min-width: 992px) {
-    
+    .card {
+        width: 14rem;
+    }   
 }
 /* Extra large */
 @media screen and (min-width: 1200px) {
+    .card {
+        width: 15rem;
+    }
     .maxheight-image {
         max-height: 750px;
     }

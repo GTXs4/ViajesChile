@@ -8,7 +8,7 @@ $(document).ready(function(){
 
         $("html").animate(
             {
-                scrollTop: $(gato).offset().top - 58.5,
+                scrollTop: gato !== '#inicio' ? $(gato).offset().top - 58.5 : $(gato).offset().top - 98,
             },
             800,
         );
