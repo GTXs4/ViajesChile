@@ -13,4 +13,8 @@ $(document).ready(function(){
             800,
         );
     });
+
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
 });

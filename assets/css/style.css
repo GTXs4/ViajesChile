@@ -13,6 +13,7 @@ body * {
     border: 0;
 }
 h1, h2, h5, p {
+    font-family: 'Open Sans', sans-serif;
     color: white;
 }
 
@@ -45,6 +46,9 @@ hr {
 }
 .card {
     width: 15rem;
+}
+i.iconos {
+    margin-top: -4px;
 }
 
 /* Extra Small */
