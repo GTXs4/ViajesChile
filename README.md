@@ -2,6 +2,11 @@
 
 Proyecto Viajes Chile
 
+## Enlace 📌
+Puedes visitar la pagina en el siguiente enlace:
+
+https://gtxs4.github.io/ViajesChile/
+
 ## Notas 📄
 Los elementos de Bootstrap sin JS que se usaron fueron:
 + Buttons (En los iconos de la presentacion)
